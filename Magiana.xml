@@ -13,13 +13,7 @@
                         <next>
                           <block type="movement_left" id="7">
                             <next>
-                              <block type="movement_left" id="8">
-                                <next>
-                                  <block type="multimedia_playwav" id="9">
-                                    <field name="WAV">21</field>
-                                  </block>
-                                </next>
-                              </block>
+                              <block type="movement_left" id="8"></block>
                             </next>
                           </block>
                         </next>
