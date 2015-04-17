@@ -1,4 +1,4 @@
-Magiana
+Project 1
 ================
 
 Maggie and Juliana's first Jade robot programming experiment~
